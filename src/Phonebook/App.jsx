@@ -1,4 +1,4 @@
-//exercise b(2.6 => 2.10) c( => 2.11) d(=>2.15)
+//exercise b(2.6 => 2.10) c( => 2.11) d(=>2.15) e(=>2.17)
 
 import { useState, useEffect } from "react";
 import personServices from "../services/persons";
